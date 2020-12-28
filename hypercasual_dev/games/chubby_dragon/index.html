@@ -37,8 +37,16 @@
   <!--<link rel="apple-touch-icon" href=".png" />-->
   <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
 
-  <link rel="stylesheet" type="text/css" href="style-mobile.f3584.css"/>
-  <link rel="icon" href="favicon.8de18.ico"/>
+  <link rel="stylesheet" type="text/css" href="style-mobile.css"/>
+  <link rel="icon" href="favicon.ico"/>
+</head>
+<body>
+  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
+  <div id="splash">
+    <div class="progress-bar stripes">
+      <span style="width: 0%"></span>
+    </div>
+  </div>
 
   <!--(1)、Create a simple HTML5 canvas game---BEGIN-->
   <!-- <canvas id='gameContainer' height="100%" width="100%"></canvas> -->
@@ -54,18 +62,10 @@
     const adBreak = adConfig = function (o) { adsbygoogle.push(o); }
   </script>
   <!--(2)、Import the Ad Placement API---END-->
-</head>
-<body>
-  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
-  <div id="splash">
-    <div class="progress-bar stripes">
-      <span style="width: 0%"></span>
-    </div>
-  </div>
 
-<script src="src/settings.1c903.js" charset="utf-8"></script>
+<script src="src/settings.js" charset="utf-8"></script>
 
-<script src="main.9af9b.js" charset="utf-8"></script>
+<script src="main.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
@@ -91,9 +91,9 @@
       document.body.appendChild(domScript);
     }
 
-    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.8e141.js', function () {
+    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.js', function () {
       if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
-        loadScript(debug ? 'physics.js' : 'physics-min.b5fcb.js', window.boot);
+        loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
       }
       else {
         window.boot();
