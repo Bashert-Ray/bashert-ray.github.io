@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "14fa3720-09c9-4b65-944f-798b35e8ae2e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 543,
+  "height": 474,
+  "platformSettings": {},
+  "subMetas": {
+    "新手教程-jap": {
+      "ver": "1.0.4",
+      "uuid": "d4390d14-e098-4180-ba87-9b5befeaaa88",
+      "rawTextureUuid": "14fa3720-09c9-4b65-944f-798b35e8ae2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 543,
+      "height": 474,
+      "rawWidth": 543,
+      "rawHeight": 474,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6f45785e-6658-469c-82f0-afe7b90ea77c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "5つのセルを クリア ": {
+      "ver": "1.0.4",
+      "uuid": "25a1ca36-4f0f-4271-a168-0056e7276f6e",
+      "rawTextureUuid": "6f45785e-6658-469c-82f0-afe7b90ea77c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 200,
+      "height": 72,
+      "rawWidth": 200,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
