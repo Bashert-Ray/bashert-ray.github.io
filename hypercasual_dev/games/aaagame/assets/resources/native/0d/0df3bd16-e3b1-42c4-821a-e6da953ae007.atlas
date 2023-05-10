@@ -1,0 +1,13 @@
+
+pistol_bullet.png
+size: 45,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hjdwy_001
+  rotate: false
+  xy: 2, 2
+  size: 35, 41
+  orig: 35, 43
+  offset: 0, 2
+  index: -1
