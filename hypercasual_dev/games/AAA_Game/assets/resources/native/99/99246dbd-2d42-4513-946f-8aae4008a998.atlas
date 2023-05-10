@@ -1,0 +1,62 @@
+
+lasereye.png
+size: 695,695
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+confetti_yellow
+  rotate: true
+  xy: 617, 552
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+ia_3700000027
+  rotate: false
+  xy: 2, 205
+  size: 512, 488
+  orig: 512, 512
+  offset: 0, 8
+  index: -1
+lasereye_fire_1
+  rotate: false
+  xy: 516, 189
+  size: 91, 159
+  orig: 91, 159
+  offset: 0, 0
+  index: -1
+lasereye_fire_2
+  rotate: false
+  xy: 612, 402
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+lasereye_fire_3
+  rotate: true
+  xy: 516, 350
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+lasereye_fire_4
+  rotate: true
+  xy: 516, 577
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+lasereye_fire_5
+  rotate: true
+  xy: 516, 462
+  size: 113, 99
+  orig: 113, 99
+  offset: 0, 0
+  index: -1
+lasereye_fire_6
+  rotate: true
+  xy: 609, 250
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1

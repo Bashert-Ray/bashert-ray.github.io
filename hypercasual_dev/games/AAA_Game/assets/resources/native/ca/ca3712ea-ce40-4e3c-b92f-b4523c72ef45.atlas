@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 896,896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: true
+  xy: 2, 882
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
+confetti_blue
+  rotate: true
+  xy: 132, 882
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+confetti_green
+  rotate: true
+  xy: 151, 882
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+confetti_orange
+  rotate: true
+  xy: 170, 882
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+confetti_purple
+  rotate: true
+  xy: 189, 882
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+confetti_red
+  rotate: true
+  xy: 208, 882
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+confetti_yellow
+  rotate: true
+  xy: 227, 882
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+green
+  rotate: true
+  xy: 246, 882
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
+orange
+  rotate: true
+  xy: 376, 882
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
+pink
+  rotate: true
+  xy: 506, 882
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
+red
+  rotate: true
+  xy: 636, 882
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: true
+  xy: 766, 882
+  size: 12, 128
+  orig: 12, 128
+  offset: 0, 0
+  index: -1
